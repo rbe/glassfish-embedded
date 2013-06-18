@@ -1,4 +1,4 @@
-glassfish-embedd
-================
+glassfish-embedded
+==================
 
-Test of embedded GlassFish
+Test of embedded GlassFish 4 using Maven 3
