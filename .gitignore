@@ -1,6 +1,12 @@
+# Java #
 *.class
 
 # Package Files #
 *.jar
 *.war
 *.ear
+
+# IntelliJ #
+.idea
+*.iml
+atlassian-ide-plugin.xml
